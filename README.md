@@ -1,2 +1,2 @@
 # Java_Fisheez
-DISCO DISCO WHOO HOOO
+Simple Java visualisation of fishes swimming.
